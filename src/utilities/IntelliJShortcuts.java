@@ -10,7 +10,7 @@ public class IntelliJShortcuts {
 //    alt  + arrow key  - - - >  (flip thru IntelliJ pages)
 //    ctrl + o (owl)    - - - >  (insert override method shortcut)
 //    ctrl + m          - - - >  (moves you to where your cursor is sitting on the page)
-//
+//    ctrl + (>) key    - - - >  (collapses a segment of code)
 //
 //
 //
