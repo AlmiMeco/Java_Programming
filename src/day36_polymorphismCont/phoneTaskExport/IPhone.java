@@ -1,5 +1,9 @@
 package day36_polymorphismCont.phoneTaskExport;
 
+/** Extra methods:
+ faceTime(phoneNumber)
+ faceTile(email)
+ **/
 public class IPhone extends Phone {
 
     public IPhone(String model, String color, char size, int price){ // no constructor applied meaning all IPhone objects created will have the same Values
@@ -17,7 +21,3 @@ public class IPhone extends Phone {
     }
 
 }
-/* Extra methods:
-			faceTime(phoneNumber)
-			faceTile(email)
-*/
