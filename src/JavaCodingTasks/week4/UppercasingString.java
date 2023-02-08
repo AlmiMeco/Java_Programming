@@ -1,5 +1,6 @@
 package JavaCodingTasks.week4;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -14,16 +15,22 @@ public class UppercasingString {
 
         jadenCasedStrings(nonCased);
 
-        char[] arrayOfString = nonCased.toCharArray();
 
     }
 
     private static void jadenCasedStrings(String str) {
 
-        String.format(str, str.)
+       String[] str2 = str.split(" ");   // splits the string by ea space (each word becomes element of String[])
+       String upperCaseWord = " ";
 
-        System.out.println(str);
+       for (String each : str2){               // for loop iterating each individual word
 
+           String firstLetterOfWord = each.substring(0,1);  // isolate the fist letter of each word
+           String restOfTheWord = each.substring(1);
+           upperCaseWord += firstLetterOfWord.toUpperCase() + restOfTheWord+ " "; // combine upperCase(first letter) w/ the rest of the word
+       }
+
+        System.out.println(upperCaseWord);
 
     }
 
