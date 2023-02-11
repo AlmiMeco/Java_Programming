@@ -12,9 +12,9 @@ public class IntelliJShortcuts {
 //    ctrl + m          - - - >  (moves you to where your cursor is sitting on the page)
 //    ctrl + (>) key    - - - >  (collapses a segment of code)
 //    ctrl + winkey + backspace  (shows all desktops)
-//
-//
-//
+//    ctrl + p          - - - >  (shows the required parameters of a method)
+//    alt  + shift + click  - >  (inserts two carets ((2 places to type from))
+//    ctrl + ctrl + arrow key >  (inserts as many carets as you'd like)
 //
 //
 //
@@ -23,7 +23,7 @@ public class IntelliJShortcuts {
 //
 //   select classes + right clck + diagram ---> (creates a diagram to show relationships amongst inherited classes)
 //
-//
+//   pressing (!) when auto-filling a statement will negate the statement
 //
 //
 //

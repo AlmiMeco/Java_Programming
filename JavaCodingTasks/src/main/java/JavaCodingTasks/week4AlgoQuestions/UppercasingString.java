@@ -1,8 +1,4 @@
-package JavaCodingTasks.week4;
-
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
+package JavaCodingTasks.week4AlgoQuestions;
 
 public class UppercasingString {
 
