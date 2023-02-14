@@ -1,4 +1,4 @@
-package JavaCodingTasks.week4AlgoQuestions;
+package JavaCodingTasks.week4Algo;
 
 public class UppercasingString {
 
