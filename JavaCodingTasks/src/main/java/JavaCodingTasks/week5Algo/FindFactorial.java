@@ -3,9 +3,11 @@ package JavaCodingTasks.week5Algo;
 import java.util.ArrayList;
 import java.util.List;
 
-/** Write a method that returns the factorial number of any given number.
- Factorial: Factorial of a non-negative integer, is multiplication of all positive integers smaller
- than or equal to n. For example, factorial of 6 is 6*5*4*3*2*1 which is 720.**/
+/**
+ * Write a method that returns the factorial number of any given number.
+ * Factorial: Factorial of a non-negative integer, is multiplication of all positive integers smaller
+ * than or equal to n. For example, factorial of 6 is 6*5*4*3*2*1 which is 720.
+ **/
 
 public class FindFactorial {
 
@@ -16,7 +18,6 @@ public class FindFactorial {
 
         factorialReturn(10);
 //        -> 3628800
-
 
 
     }
