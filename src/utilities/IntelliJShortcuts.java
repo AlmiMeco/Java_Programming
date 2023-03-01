@@ -15,8 +15,8 @@ public class IntelliJShortcuts {
 //    ctrl + p          - - - >  (shows the required parameters of a method)
 //    alt  + shift + click  - >  (inserts two carets ((2 places to type from))
 //    ctrl + ctrl + arrow key >  (inserts as many carets as you'd like)
-//
-//
+//   shift + F6         - - - >  (Refactor Shortcut)
+//    alt  +  7         - - - >  (Project Structure Shortcut)
 //
 //
 //
@@ -26,7 +26,7 @@ public class IntelliJShortcuts {
 //   pressing (!) when auto-filling a statement will negate the statement
 //
 //
-//
+//      ctrl + winkey + backspace  (shows all desktops)
 //
 //
 //
